@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+*.py[cod]
+*.lock
+*.pcap
+.vscode/
+*.pyro
+*.env
+*.save
+.pytest_cache

@@ -1,0 +1,20 @@
+{
+    "ingredients": [
+      {
+        "name": "Вода",
+        "INCI": "Aqua",
+        "origin": "Природное",
+        "function": "Растворитель",
+        "rating": 5,
+        "safety": "Безопасен"
+      },
+      {
+        "name": "Глицерин",
+        "INCI": "Glycerin",
+        "origin": "Растительное",
+        "function": "Увлажнитель",
+        "rating": 4,
+        "safety": "Безопасен"
+      }
+    ]
+}
